@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "Sistema.delivery.storage.local.diretorio-fotos",
+    "type": "java.lang.String",
+    "description": "A description for 'Sistema.delivery.storage.local.diretorio-fotos'"
+  },
+  {
+    "name": "Sistema.delivery.storage.s3.regiao",
+    "type": "java.lang.String",
+    "description": "A description for 'Sistema.delivery.storage.s3.regiao'"
+  },
+  {
+    "name": "Sistema.delivery.storage.s3.bucket",
+    "type": "java.lang.String",
+    "description": "A description for 'Sistema.delivery.storage.s3.bucket'"
+  }
+]}
